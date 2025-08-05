@@ -46,3 +46,5 @@ These slicers allow users to dynamically drill down into financial insights.
 * Historical comparison of profits across two years
 * Dynamic, filterable dashboards for detailed analysis
 
+
+
