@@ -8,13 +8,14 @@ This project is a comprehensive Power BI dashboard designed to visualize key fin
 
 
 1. Tools & Features Used
-Power Query (Data Transformation)
+   
+--->Power Query (Data Transformation)
 * Removed duplicates and unnecessary columns
 * Added custom columns based on logic (e.g., `IF`, `AND` conditions)
 * Filtered records based on defined business logic
 * Cleaned and shaped raw data into analytical tables
 
-Power Pivot (DAX Calculations)
+--->Power Pivot (DAX Calculations)
 * Created complex calculated columns and measures using DAX
 * Designed dynamic KPIs like:
   * Total Revenue
@@ -23,7 +24,7 @@ Power Pivot (DAX Calculations)
   * Profit Last Year
   * Profit Last to Last Year
 
-Dashboard Visuals
+--->Dashboard Visuals
 * KPI cards for overall financial summary
 * Bar chart for Total Profit by Country
 * Pie chart for Revenue by Gender
@@ -45,5 +46,3 @@ These slicers allow users to dynamically drill down into financial insights.
 * Historical comparison of profits across two years
 * Dynamic, filterable dashboards for detailed analysis
 
-
-Would you like me to generate this README as a downloadable `.md` file or add it to a zip with your `.pbix` file for easy upload to GitHub?
